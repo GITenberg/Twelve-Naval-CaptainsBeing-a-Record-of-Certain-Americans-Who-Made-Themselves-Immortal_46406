@@ -1,0 +1,37 @@
+_repo: Twelve-Naval-CaptainsBeing-a-Record-of-Certain-Americans-Who-Made-Themselves-Immortal_46406
+_version: 0.1.0
+alternative_title: "12 Naval Captains\r\nBeing a Record of Certain Americans Who Made\
+  \ Themselves Immortal"
+covers:
+- cover_type: archival
+  image_path: 46406-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Seawell, Molly Elliot
+    alias: Seawell, M. Elliot (Molly Elliot)
+    birthdate: 1860
+    deathdate: 1916
+    gutenberg_agent_id: '7754'
+    url: http://www.gutenberg.org/2009/agents/7754
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Molly_Elliot_Seawell
+    - http://www.gutenberg.org/ebooks/author/43099
+description: ''
+gutenberg_issued: '2014-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States. Navy -- Biography'
+tableOfContents: Paul Jones -- Richard Dale -- Thomas Truxtun -- William Bainbridge
+  -- Edward Preble -- Stephen Decatur -- Richard Somers -- Isaac Hull -- Charles Stewart
+  -- Oliver Hazard Perry -- Thomas Macdonough -- James Lawrence.
+title: 'Twelve Naval Captains
+
+  Being a Record of Certain Americans Who Made Themselves Immortal'
+url: http://www.gutenberg.org/ebooks/46406
